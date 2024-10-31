@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">Software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonybrancato" alt="anthonybrancato" /></a> </p>
-
 - 💬 Ask me about **react, RESTs Apis**
 
 - 📫 How to reach me **abrancato.contact@gmail.com**
